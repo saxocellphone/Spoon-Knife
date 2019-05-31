@@ -1,0 +1,1 @@
+I really like the organization scheme of blessed repository. It allows developers to work on their seperate machines while having a central repository with all the latest features. Blessed repository also allows for easy code review and integration with pull requests, making DevOp's job a lot easier.
